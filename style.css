@@ -163,6 +163,7 @@ body {
   }
 
 
+
   .main_div1 {
      color: #000000;
       font-size: 17px;
@@ -208,6 +209,9 @@ body {
     margin-right: 468px;
     margin-top: -11px;
   }
+
+
+
 
 
   .main_div2 {
@@ -257,6 +261,9 @@ body {
   }
 
 
+
+
+
   .main_div3 {
     color: #000000;
     font-size: 17px;
@@ -304,6 +311,9 @@ body {
   }
 
 
+
+
+  
   .sec_img {
     display: flex;
     justify-content: flex-end;
